@@ -1,3 +1,15 @@
 header {
+    background-color: rgb(85, 219, 163) ;
+}
+
+h2 {
     background-color: seagreen;
+}
+
+h3 {
+    background-color: seagreen;
+}
+
+img {
+    max-width: 80%;
 }
