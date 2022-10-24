@@ -1,15 +1,25 @@
 header {
-    background-color: rgb(85, 219, 163) ;
+    background-color: rgb(76, 195, 145) ;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 h2 {
     background-color: seagreen;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
 }
 
 h3 {
     background-color: seagreen;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
 }
 
 img {
     max-width: 80%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 3px solid seagreen;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
