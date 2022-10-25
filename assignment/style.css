@@ -18,8 +18,8 @@ h3 {
 img {
     max-width: 80%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    border: 3px solid seagreen;
     margin-left: auto;
     margin-right: auto;
     display: block;
+    clip-path: ellipse();
 }
